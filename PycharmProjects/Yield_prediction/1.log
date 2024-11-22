@@ -1,0 +1,1772 @@
+Root node IDs: [0, 1, 2, 3, 4, 5]
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'O' -> SMILES: COCO | Score: 0.0968
+Score for SMILES 'COCO': 0.0968
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'C' -> SMILES: CCOC | Score: 0.1724
+Score for SMILES 'CCOC': 0.1724
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'CC' -> SMILES: CCCOC | Score: 0.2667
+Score for SMILES 'CCCOC': 0.2667
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'CO' -> SMILES: COCCO | Score: 0.1515
+Score for SMILES 'COCCO': 0.1515
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'CO' -> SMILES: COCOC | Score: 0.1176
+Score for SMILES 'COCOC': 0.1176
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'COC' -> SMILES: COCCOC | Score: 0.2059
+Score for SMILES 'COCCOC': 0.2059
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'CCC' -> SMILES: CCCCOC | Score: 0.4138
+Score for SMILES 'CCCCOC': 0.4138
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'CCC' -> SMILES: COCC(C)C | Score: 0.1111
+Score for SMILES 'COCC(C)C': 0.1111
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Score for SMILES 'CCCCOC': 0.4138
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: COCC(C)C | Score: 0.1111
+Score for SMILES 'COCC(C)C': 0.1111
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'C' -> SMILES: CC(C)C | Score: 0.0645
+Score for SMILES 'CC(C)C': 0.0645
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'C' -> SMILES: CCCC | Score: 0.3077
+Score for SMILES 'CCCC': 0.3077
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'CO' -> SMILES: COC(C)C | Score: 0.0909
+Score for SMILES 'COC(C)C': 0.0909
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'CO' -> SMILES: CC(C)CO | Score: 0.0909
+Score for SMILES 'CC(C)CO': 0.0909
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'CO' -> SMILES: CCCOC | Score: 0.2667
+Score for SMILES 'CCCOC': 0.2667
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'CO' -> SMILES: CCCCO | Score: 0.2667
+Score for SMILES 'CCCCO': 0.2667
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'CCC' -> SMILES: CCCCCC | Score: 0.5185
+Score for SMILES 'CCCCCC': 0.5185
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'CCC' -> SMILES: CC(C)C(C)C | Score: 0.0556
+Score for SMILES 'CC(C)C(C)C': 0.0556
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'CCC' -> SMILES: CCCC(C)C | Score: 0.1765
+Score for SMILES 'CCCC(C)C': 0.1765
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'CC' -> SMILES: CCCCC | Score: 0.4615
+Score for SMILES 'CCCCC': 0.4615
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'CC' -> SMILES: CCC(C)C | Score: 0.1250
+Score for SMILES 'CCC(C)C': 0.1250
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'O' -> SMILES: CC(C)O | Score: 0.0645
+Score for SMILES 'CC(C)O': 0.0645
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'O' -> SMILES: CCCO | Score: 0.1724
+Score for SMILES 'CCCO': 0.1724
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CO | Score: 0.0370
+Step 1: Add fragment 'COC' -> SMILES: COCCO | Score: 0.1515
+Score for SMILES 'COCCO': 0.1515
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CO | Score: 0.0370
+Step 1: Add fragment 'COC' -> SMILES: COCOC | Score: 0.1176
+Score for SMILES 'COCOC': 0.1176
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CO | Score: 0.0370
+Step 1: Add fragment 'C' -> SMILES: CCO | Score: 0.1071
+Score for SMILES 'CCO': 0.1071
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CO | Score: 0.0370
+Step 1: Add fragment 'C' -> SMILES: COC | Score: 0.1071
+Score for SMILES 'COC': 0.1071
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CO | Score: 0.0370
+Step 1: Add fragment 'O' -> SMILES: OCO | Score: 0.0333
+Score for SMILES 'OCO': 0.0333
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CO | Score: 0.0370
+Step 1: Add fragment 'O' -> SMILES: COO | Score: 0.0690
+Score for SMILES 'COO': 0.0690
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CO | Score: 0.0370
+Step 1: Add fragment 'CC' -> SMILES: CCOC | Score: 0.1724
+Score for SMILES 'CCOC': 0.1724
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CO | Score: 0.0370
+Step 1: Add fragment 'CC' -> SMILES: CCCO | Score: 0.1724
+Score for SMILES 'CCCO': 0.1724
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CO | Score: 0.0370
+Step 1: Add fragment 'CCC' -> SMILES: CCCOC | Score: 0.2667
+Score for SMILES 'CCCOC': 0.2667
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CO | Score: 0.0370
+Step 1: Add fragment 'CCC' -> SMILES: COC(C)C | Score: 0.0909
+Score for SMILES 'COC(C)C': 0.0909
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CO | Score: 0.0370
+Step 1: Add fragment 'CCC' -> SMILES: CC(C)CO | Score: 0.0909
+Score for SMILES 'CC(C)CO': 0.0909
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CO | Score: 0.0370
+Step 1: Add fragment 'CCC' -> SMILES: CCCCO | Score: 0.2667
+Score for SMILES 'CCCCO': 0.2667
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CO | Score: 0.0370
+Step 1: Add fragment 'CO' -> SMILES: OCCO | Score: 0.0625
+Score for SMILES 'OCCO': 0.0625
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CO | Score: 0.0370
+Step 1: Add fragment 'CO' -> SMILES: COCO | Score: 0.0968
+Score for SMILES 'COCO': 0.0968
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CO | Score: 0.0370
+Step 1: Add fragment 'CO' -> SMILES: COOC | Score: 0.0968
+Score for SMILES 'COOC': 0.0968
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'CC' -> SMILES: CCCC | Score: 0.3077
+Score for SMILES 'CCCC': 0.3077
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'C' -> SMILES: CCC | Score: 0.1923
+Score for SMILES 'CCC': 0.1923
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'CCC' -> SMILES: CCCCC | Score: 0.4615
+Score for SMILES 'CCCCC': 0.4615
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'CCC' -> SMILES: CCC(C)C | Score: 0.1250
+Score for SMILES 'CCC(C)C': 0.1250
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'COC' -> SMILES: CCCOC | Score: 0.2667
+Score for SMILES 'CCCOC': 0.2667
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'O' -> SMILES: CCO | Score: 0.1071
+Score for SMILES 'CCO': 0.1071
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'CO' -> SMILES: CCOC | Score: 0.1724
+Score for SMILES 'CCOC': 0.1724
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'CO' -> SMILES: CCCO | Score: 0.1724
+Score for SMILES 'CCCO': 0.1724
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: O | Score: 0.0000
+Step 1: Add fragment 'CO' -> SMILES: OCO | Score: 0.0333
+Score for SMILES 'OCO': 0.0333
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: O | Score: 0.0000
+Step 1: Add fragment 'CO' -> SMILES: COO | Score: 0.0690
+Score for SMILES 'COO': 0.0690
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: O | Score: 0.0000
+Step 1: Add fragment 'O' -> SMILES: OO | Score: 0.0000
+Score for SMILES 'OO': 0.0000
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: O | Score: 0.0000
+Step 1: Add fragment 'CCC' -> SMILES: CC(C)O | Score: 0.0645
+Score for SMILES 'CC(C)O': 0.0645
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: O | Score: 0.0000
+Step 1: Add fragment 'CCC' -> SMILES: CCCO | Score: 0.1724
+Score for SMILES 'CCCO': 0.1724
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: O | Score: 0.0000
+Step 1: Add fragment 'CC' -> SMILES: CCO | Score: 0.1071
+Score for SMILES 'CCO': 0.1071
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: O | Score: 0.0000
+Step 1: Add fragment 'COC' -> SMILES: COCO | Score: 0.0968
+Score for SMILES 'COCO': 0.0968
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: O | Score: 0.0000
+Step 1: Add fragment 'C' -> SMILES: CO | Score: 0.0370
+Score for SMILES 'CO': 0.0370
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'O' -> SMILES: CO | Score: 0.0370
+Score for SMILES 'CO': 0.0370
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'CCC' -> SMILES: CC(C)C | Score: 0.0645
+Score for SMILES 'CC(C)C': 0.0645
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'CCC' -> SMILES: CCCC | Score: 0.3077
+Score for SMILES 'CCCC': 0.3077
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'COC' -> SMILES: CCOC | Score: 0.1724
+Score for SMILES 'CCOC': 0.1724
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'CO' -> SMILES: CCO | Score: 0.1071
+Score for SMILES 'CCO': 0.1071
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'CO' -> SMILES: COC | Score: 0.1071
+Score for SMILES 'COC': 0.1071
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'C' -> SMILES: CC | Score: 0.0769
+Score for SMILES 'CC': 0.0769
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'CC' -> SMILES: CCC | Score: 0.1923
+Score for SMILES 'CCC': 0.1923
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'C' -> SMILES: CCOC | Score: 0.1724
+Step 2: Add fragment 'CO' -> SMILES: COCCCO | Score: 0.2059
+Score for SMILES 'COCCCO': 0.2059
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'C' -> SMILES: CCOC | Score: 0.1724
+Step 2: Add fragment 'CO' -> SMILES: CCOCCO | Score: 0.2424
+Score for SMILES 'CCOCCO': 0.2424
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'C' -> SMILES: CCOC | Score: 0.1724
+Step 2: Add fragment 'CO' -> SMILES: COC(C)OC | Score: 0.0811
+Score for SMILES 'COC(C)OC': 0.0811
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'C' -> SMILES: CCOC | Score: 0.1724
+Step 2: Add fragment 'CO' -> SMILES: COCCOC | Score: 0.2059
+Score for SMILES 'COCCOC': 0.2059
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'C' -> SMILES: CCOC | Score: 0.1724
+Step 2: Add fragment 'CO' -> SMILES: COC(C)CO | Score: 0.1111
+Score for SMILES 'COC(C)CO': 0.1111
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'C' -> SMILES: CCOC | Score: 0.1724
+Step 2: Add fragment 'CO' -> SMILES: CCOCOC | Score: 0.2059
+Score for SMILES 'CCOCOC': 0.2059
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'C' -> SMILES: CCOC | Score: 0.1724
+Step 2: Add fragment 'O' -> SMILES: COC(C)O | Score: 0.0909
+Score for SMILES 'COC(C)O': 0.0909
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'C' -> SMILES: CCOC | Score: 0.1724
+Step 2: Add fragment 'O' -> SMILES: COCCO | Score: 0.1515
+Score for SMILES 'COCCO': 0.1515
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'C' -> SMILES: CCOC | Score: 0.1724
+Step 2: Add fragment 'O' -> SMILES: CCOCO | Score: 0.1875
+Score for SMILES 'CCOCO': 0.1875
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'C' -> SMILES: CCOC | Score: 0.1724
+Step 2: Add fragment 'COC' -> SMILES: CCOCCOC | Score: 0.2941
+Score for SMILES 'CCOCCOC': 0.2941
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'C' -> SMILES: CCOC | Score: 0.1724
+Step 2: Add fragment 'COC' -> SMILES: COCCCOC | Score: 0.2571
+Score for SMILES 'COCCCOC': 0.2571
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'C' -> SMILES: CCOC | Score: 0.1724
+Step 2: Add fragment 'COC' -> SMILES: COCC(C)OC | Score: 0.1026
+Score for SMILES 'COCC(C)OC': 0.1026
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'C' -> SMILES: CCOC | Score: 0.1724
+Step 2: Add fragment 'C' -> SMILES: COC(C)C | Score: 0.0909
+Score for SMILES 'COC(C)C': 0.0909
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'C' -> SMILES: CCOC | Score: 0.1724
+Step 2: Add fragment 'C' -> SMILES: CCCOC | Score: 0.2667
+Score for SMILES 'CCCOC': 0.2667
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'C' -> SMILES: CCOC | Score: 0.1724
+Step 2: Add fragment 'C' -> SMILES: CCOCC | Score: 0.2667
+Score for SMILES 'CCOCC': 0.2667
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'C' -> SMILES: CCOC | Score: 0.1724
+Step 2: Add fragment 'CCC' -> SMILES: CCCCCOC | Score: 0.4194
+Score for SMILES 'CCCCCOC': 0.4194
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'C' -> SMILES: CCOC | Score: 0.1724
+Step 2: Add fragment 'CCC' -> SMILES: COC(C)C(C)C | Score: 0.0769
+Score for SMILES 'COC(C)C(C)C': 0.0769
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'C' -> SMILES: CCOC | Score: 0.1724
+Step 2: Add fragment 'CCC' -> SMILES: CCOCC(C)C | Score: 0.1944
+Score for SMILES 'CCOCC(C)C': 0.1944
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'C' -> SMILES: CCOC | Score: 0.1724
+Step 2: Add fragment 'CCC' -> SMILES: CCCCOCC | Score: 0.5714
+Score for SMILES 'CCCCOCC': 0.5714
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'C' -> SMILES: CCOC | Score: 0.1724
+Step 2: Add fragment 'CCC' -> SMILES: COCCC(C)C | Score: 0.1622
+Score for SMILES 'COCCC(C)C': 0.1622
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'C' -> SMILES: CCOC | Score: 0.1724
+Step 2: Add fragment 'CCC' -> SMILES: CCCC(C)OC | Score: 0.1944
+Score for SMILES 'CCCC(C)OC': 0.1944
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'C' -> SMILES: CCOC | Score: 0.1724
+Step 2: Add fragment 'CC' -> SMILES: CCCCOC | Score: 0.4138
+Score for SMILES 'CCCCOC': 0.4138
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'C' -> SMILES: CCOC | Score: 0.1724
+Step 2: Add fragment 'CC' -> SMILES: CCCOCC | Score: 0.3667
+Score for SMILES 'CCCOCC': 0.3667
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'C' -> SMILES: CCOC | Score: 0.1724
+Step 2: Add fragment 'CC' -> SMILES: CCC(C)OC | Score: 0.1429
+Score for SMILES 'CCC(C)OC': 0.1429
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'CC' -> SMILES: CCCC | Score: 0.3077
+Step 2: Add fragment 'CO' -> SMILES: CCCCCO | Score: 0.3226
+Score for SMILES 'CCCCCO': 0.3226
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'CC' -> SMILES: CCCC | Score: 0.3077
+Step 2: Add fragment 'CO' -> SMILES: CCCCOC | Score: 0.4138
+Score for SMILES 'CCCCOC': 0.4138
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'CC' -> SMILES: CCCC | Score: 0.3077
+Step 2: Add fragment 'CO' -> SMILES: CCC(C)CO | Score: 0.1429
+Score for SMILES 'CCC(C)CO': 0.1429
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'CC' -> SMILES: CCCC | Score: 0.3077
+Step 2: Add fragment 'CO' -> SMILES: CCC(C)OC | Score: 0.1429
+Score for SMILES 'CCC(C)OC': 0.1429
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'CC' -> SMILES: CCCC | Score: 0.3077
+Step 2: Add fragment 'C' -> SMILES: CCCCC | Score: 0.4615
+Score for SMILES 'CCCCC': 0.4615
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'CC' -> SMILES: CCCC | Score: 0.3077
+Step 2: Add fragment 'C' -> SMILES: CCC(C)C | Score: 0.1250
+Score for SMILES 'CCC(C)C': 0.1250
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'CC' -> SMILES: CCCC | Score: 0.3077
+Step 2: Add fragment 'O' -> SMILES: CCC(C)O | Score: 0.1250
+Score for SMILES 'CCC(C)O': 0.1250
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'CC' -> SMILES: CCCC | Score: 0.3077
+Step 2: Add fragment 'O' -> SMILES: CCCCO | Score: 0.2667
+Score for SMILES 'CCCCO': 0.2667
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'CC' -> SMILES: CCCC | Score: 0.3077
+Step 2: Add fragment 'COC' -> SMILES: CCCCCOC | Score: 0.4194
+Score for SMILES 'CCCCCOC': 0.4194
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'CC' -> SMILES: CCCC | Score: 0.3077
+Step 2: Add fragment 'COC' -> SMILES: CCC(C)COC | Score: 0.1622
+Score for SMILES 'CCC(C)COC': 0.1622
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'CC' -> SMILES: CCCC | Score: 0.3077
+Step 2: Add fragment 'CCC' -> SMILES: CCC(C)C(C)C | Score: 0.1053
+Score for SMILES 'CCC(C)C(C)C': 0.1053
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'CC' -> SMILES: CCCC | Score: 0.3077
+Step 2: Add fragment 'CCC' -> SMILES: CCCC(C)CC | Score: 0.2286
+Score for SMILES 'CCCC(C)CC': 0.2286
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'CC' -> SMILES: CCCC | Score: 0.3077
+Step 2: Add fragment 'CCC' -> SMILES: CCCCCCC | Score: 0.5172
+Score for SMILES 'CCCCCCC': 0.5172
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'CC' -> SMILES: CCCC | Score: 0.3077
+Step 2: Add fragment 'CCC' -> SMILES: CCCCC(C)C | Score: 0.2647
+Score for SMILES 'CCCCC(C)C': 0.2647
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'CC' -> SMILES: CCCC | Score: 0.3077
+Step 2: Add fragment 'CC' -> SMILES: CCCCCC | Score: 0.5185
+Score for SMILES 'CCCCCC': 0.5185
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'CC' -> SMILES: CCCC | Score: 0.3077
+Step 2: Add fragment 'CC' -> SMILES: CCC(C)CC | Score: 0.1765
+Score for SMILES 'CCC(C)CC': 0.1765
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'CC' -> SMILES: CCCOC | Score: 0.2667
+Step 2: Add fragment 'CCC' -> SMILES: CCCC(C)COC | Score: 0.2105
+Score for SMILES 'CCCC(C)COC': 0.2105
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'CC' -> SMILES: CCCOC | Score: 0.2667
+Step 2: Add fragment 'CCC' -> SMILES: CCCCCCOC | Score: 0.4242
+Score for SMILES 'CCCCCCOC': 0.4242
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'CC' -> SMILES: CCCOC | Score: 0.2667
+Step 2: Add fragment 'CCC' -> SMILES: COCC(C)C(C)C | Score: 0.0976
+Score for SMILES 'COCC(C)C(C)C': 0.0976
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'CC' -> SMILES: CCCOC | Score: 0.2667
+Step 2: Add fragment 'CCC' -> SMILES: CCCCOCCC | Score: 0.7407
+Score for SMILES 'CCCCOCCC': 0.7407
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'CC' -> SMILES: CCCOC | Score: 0.2667
+Step 2: Add fragment 'CCC' -> SMILES: CCCOCC(C)C | Score: 0.2778
+Score for SMILES 'CCCOCC(C)C': 0.2778
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'CC' -> SMILES: CCCOC | Score: 0.2667
+Step 2: Add fragment 'CCC' -> SMILES: COCCCC(C)C | Score: 0.2105
+Score for SMILES 'COCCCC(C)C': 0.2105
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'CC' -> SMILES: CCCOC | Score: 0.2667
+Step 2: Add fragment 'CCC' -> SMILES: CCC(OC)C(C)C | Score: 0.1250
+Score for SMILES 'CCC(OC)C(C)C': 0.1250
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'CC' -> SMILES: CCCOC | Score: 0.2667
+Step 2: Add fragment 'CCC' -> SMILES: CCCC(CC)OC | Score: 0.2432
+Score for SMILES 'CCCC(CC)OC': 0.2432
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'CC' -> SMILES: CCCOC | Score: 0.2667
+Step 2: Add fragment 'O' -> SMILES: CCCOCO | Score: 0.2812
+Score for SMILES 'CCCOCO': 0.2812
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'CC' -> SMILES: CCCOC | Score: 0.2667
+Step 2: Add fragment 'O' -> SMILES: COCC(C)O | Score: 0.1111
+Score for SMILES 'COCC(C)O': 0.1111
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'CC' -> SMILES: CCCOC | Score: 0.2667
+Step 2: Add fragment 'O' -> SMILES: COCCCO | Score: 0.2059
+Score for SMILES 'COCCCO': 0.2059
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'CC' -> SMILES: CCCOC | Score: 0.2667
+Step 2: Add fragment 'O' -> SMILES: CCC(O)OC | Score: 0.1429
+Score for SMILES 'CCC(O)OC': 0.1429
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'CC' -> SMILES: CCCOC | Score: 0.2667
+Step 2: Add fragment 'C' -> SMILES: CCCCOC | Score: 0.4138
+Score for SMILES 'CCCCOC': 0.4138
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'CC' -> SMILES: CCCOC | Score: 0.2667
+Step 2: Add fragment 'C' -> SMILES: CCCOCC | Score: 0.3667
+Score for SMILES 'CCCOCC': 0.3667
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'CC' -> SMILES: CCCOC | Score: 0.2667
+Step 2: Add fragment 'C' -> SMILES: COCC(C)C | Score: 0.1111
+Score for SMILES 'COCC(C)C': 0.1111
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'CC' -> SMILES: CCCOC | Score: 0.2667
+Step 2: Add fragment 'C' -> SMILES: CCC(C)OC | Score: 0.1429
+Score for SMILES 'CCC(C)OC': 0.1429
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'CC' -> SMILES: CCCOC | Score: 0.2667
+Step 2: Add fragment 'COC' -> SMILES: CCC(COC)OC | Score: 0.1500
+Score for SMILES 'CCC(COC)OC': 0.1500
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'CC' -> SMILES: CCCOC | Score: 0.2667
+Step 2: Add fragment 'COC' -> SMILES: COCC(C)COC | Score: 0.1220
+Score for SMILES 'COCC(C)COC': 0.1220
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'CC' -> SMILES: CCCOC | Score: 0.2667
+Step 2: Add fragment 'COC' -> SMILES: CCCOCCOC | Score: 0.3824
+Score for SMILES 'CCCOCCOC': 0.3824
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'CC' -> SMILES: CCCOC | Score: 0.2667
+Step 2: Add fragment 'COC' -> SMILES: COCCCCOC | Score: 0.3056
+Score for SMILES 'COCCCCOC': 0.3056
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'CC' -> SMILES: CCCOC | Score: 0.2667
+Step 2: Add fragment 'CC' -> SMILES: CCCCCOC | Score: 0.4194
+Score for SMILES 'CCCCCOC': 0.4194
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'CC' -> SMILES: CCCOC | Score: 0.2667
+Step 2: Add fragment 'CC' -> SMILES: CCC(CC)OC | Score: 0.1944
+Score for SMILES 'CCC(CC)OC': 0.1944
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'CC' -> SMILES: CCCOC | Score: 0.2667
+Step 2: Add fragment 'CC' -> SMILES: CCCOCCC | Score: 0.5172
+Score for SMILES 'CCCOCCC': 0.5172
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'CC' -> SMILES: CCCOC | Score: 0.2667
+Step 2: Add fragment 'CC' -> SMILES: CCC(C)COC | Score: 0.1622
+Score for SMILES 'CCC(C)COC': 0.1622
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'CC' -> SMILES: CCCOC | Score: 0.2667
+Step 2: Add fragment 'CO' -> SMILES: CCCOCOC | Score: 0.2941
+Score for SMILES 'CCCOCOC': 0.2941
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'CC' -> SMILES: CCCOC | Score: 0.2667
+Step 2: Add fragment 'CO' -> SMILES: COCC(C)OC | Score: 0.1026
+Score for SMILES 'COCC(C)OC': 0.1026
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'CC' -> SMILES: CCCOC | Score: 0.2667
+Step 2: Add fragment 'CO' -> SMILES: COCCCCO | Score: 0.2571
+Score for SMILES 'COCCCCO': 0.2571
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'CC' -> SMILES: CCCOC | Score: 0.2667
+Step 2: Add fragment 'CO' -> SMILES: CCCOCCO | Score: 0.3750
+Score for SMILES 'CCCOCCO': 0.3750
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'CC' -> SMILES: CCCOC | Score: 0.2667
+Step 2: Add fragment 'CO' -> SMILES: CCC(CO)OC | Score: 0.1622
+Score for SMILES 'CCC(CO)OC': 0.1622
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'CC' -> SMILES: CCCOC | Score: 0.2667
+Step 2: Add fragment 'CO' -> SMILES: COCC(C)CO | Score: 0.1316
+Score for SMILES 'COCC(C)CO': 0.1316
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'CC' -> SMILES: CCCOC | Score: 0.2667
+Step 2: Add fragment 'CO' -> SMILES: CCC(OC)OC | Score: 0.1316
+Score for SMILES 'CCC(OC)OC': 0.1316
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: COC | Score: 0.1071
+Step 1: Add fragment 'CC' -> SMILES: CCCOC | Score: 0.2667
+Step 2: Add fragment 'CO' -> SMILES: COCCCOC | Score: 0.2571
+Score for SMILES 'COCCCOC': 0.2571
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'O' -> SMILES: CO | Score: 0.0370
+Step 2: Add fragment 'C' -> SMILES: CCO | Score: 0.1071
+Score for SMILES 'CCO': 0.1071
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'O' -> SMILES: CO | Score: 0.0370
+Step 2: Add fragment 'C' -> SMILES: COC | Score: 0.1071
+Score for SMILES 'COC': 0.1071
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'O' -> SMILES: CO | Score: 0.0370
+Step 2: Add fragment 'COC' -> SMILES: COCCO | Score: 0.1515
+Score for SMILES 'COCCO': 0.1515
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'O' -> SMILES: CO | Score: 0.0370
+Step 2: Add fragment 'COC' -> SMILES: COCOC | Score: 0.1176
+Score for SMILES 'COCOC': 0.1176
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'O' -> SMILES: CO | Score: 0.0370
+Step 2: Add fragment 'CC' -> SMILES: CCOC | Score: 0.1724
+Score for SMILES 'CCOC': 0.1724
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'O' -> SMILES: CO | Score: 0.0370
+Step 2: Add fragment 'CC' -> SMILES: CCCO | Score: 0.1724
+Score for SMILES 'CCCO': 0.1724
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'O' -> SMILES: CO | Score: 0.0370
+Step 2: Add fragment 'O' -> SMILES: OCO | Score: 0.0333
+Score for SMILES 'OCO': 0.0333
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'O' -> SMILES: CO | Score: 0.0370
+Step 2: Add fragment 'O' -> SMILES: COO | Score: 0.0690
+Score for SMILES 'COO': 0.0690
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'O' -> SMILES: CO | Score: 0.0370
+Step 2: Add fragment 'CCC' -> SMILES: CCCOC | Score: 0.2667
+Score for SMILES 'CCCOC': 0.2667
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'O' -> SMILES: CO | Score: 0.0370
+Step 2: Add fragment 'CCC' -> SMILES: COC(C)C | Score: 0.0909
+Score for SMILES 'COC(C)C': 0.0909
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'O' -> SMILES: CO | Score: 0.0370
+Step 2: Add fragment 'CCC' -> SMILES: CC(C)CO | Score: 0.0909
+Score for SMILES 'CC(C)CO': 0.0909
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'O' -> SMILES: CO | Score: 0.0370
+Step 2: Add fragment 'CCC' -> SMILES: CCCCO | Score: 0.2667
+Score for SMILES 'CCCCO': 0.2667
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'O' -> SMILES: CO | Score: 0.0370
+Step 2: Add fragment 'CO' -> SMILES: OCCO | Score: 0.0625
+Score for SMILES 'OCCO': 0.0625
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'O' -> SMILES: CO | Score: 0.0370
+Step 2: Add fragment 'CO' -> SMILES: COCO | Score: 0.0968
+Score for SMILES 'COCO': 0.0968
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'O' -> SMILES: CO | Score: 0.0370
+Step 2: Add fragment 'CO' -> SMILES: COOC | Score: 0.0968
+Score for SMILES 'COOC': 0.0968
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'C' -> SMILES: CCC | Score: 0.1923
+Step 2: Add fragment 'O' -> SMILES: CC(C)O | Score: 0.0645
+Score for SMILES 'CC(C)O': 0.0645
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'C' -> SMILES: CCC | Score: 0.1923
+Step 2: Add fragment 'O' -> SMILES: CCCO | Score: 0.1724
+Score for SMILES 'CCCO': 0.1724
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'C' -> SMILES: CCC | Score: 0.1923
+Step 2: Add fragment 'CC' -> SMILES: CCCCC | Score: 0.4615
+Score for SMILES 'CCCCC': 0.4615
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'C' -> SMILES: CCC | Score: 0.1923
+Step 2: Add fragment 'CC' -> SMILES: CCC(C)C | Score: 0.1250
+Score for SMILES 'CCC(C)C': 0.1250
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'C' -> SMILES: CCC | Score: 0.1923
+Step 2: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Score for SMILES 'CCCCOC': 0.4138
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'C' -> SMILES: CCC | Score: 0.1923
+Step 2: Add fragment 'COC' -> SMILES: COCC(C)C | Score: 0.1111
+Score for SMILES 'COCC(C)C': 0.1111
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'C' -> SMILES: CCC | Score: 0.1923
+Step 2: Add fragment 'CO' -> SMILES: COC(C)C | Score: 0.0909
+Score for SMILES 'COC(C)C': 0.0909
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'C' -> SMILES: CCC | Score: 0.1923
+Step 2: Add fragment 'CO' -> SMILES: CC(C)CO | Score: 0.0909
+Score for SMILES 'CC(C)CO': 0.0909
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'C' -> SMILES: CCC | Score: 0.1923
+Step 2: Add fragment 'CO' -> SMILES: CCCOC | Score: 0.2667
+Score for SMILES 'CCCOC': 0.2667
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'C' -> SMILES: CCC | Score: 0.1923
+Step 2: Add fragment 'CO' -> SMILES: CCCCO | Score: 0.2667
+Score for SMILES 'CCCCO': 0.2667
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'C' -> SMILES: CCC | Score: 0.1923
+Step 2: Add fragment 'C' -> SMILES: CC(C)C | Score: 0.0645
+Score for SMILES 'CC(C)C': 0.0645
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'C' -> SMILES: CCC | Score: 0.1923
+Step 2: Add fragment 'C' -> SMILES: CCCC | Score: 0.3077
+Score for SMILES 'CCCC': 0.3077
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'C' -> SMILES: CCC | Score: 0.1923
+Step 2: Add fragment 'CCC' -> SMILES: CCCCCC | Score: 0.5185
+Score for SMILES 'CCCCCC': 0.5185
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'C' -> SMILES: CCC | Score: 0.1923
+Step 2: Add fragment 'CCC' -> SMILES: CC(C)C(C)C | Score: 0.0556
+Score for SMILES 'CC(C)C(C)C': 0.0556
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CC | Score: 0.0769
+Step 1: Add fragment 'C' -> SMILES: CCC | Score: 0.1923
+Step 2: Add fragment 'CCC' -> SMILES: CCCC(C)C | Score: 0.1765
+Score for SMILES 'CCCC(C)C': 0.1765
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'C' -> SMILES: CCCCCOC | Score: 0.4194
+Score for SMILES 'CCCCCOC': 0.4194
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'C' -> SMILES: CCCCOCC | Score: 0.5714
+Score for SMILES 'CCCCOCC': 0.5714
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'C' -> SMILES: COCCC(C)C | Score: 0.1622
+Score for SMILES 'COCCC(C)C': 0.1622
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'C' -> SMILES: CCC(C)COC | Score: 0.1622
+Score for SMILES 'CCC(C)COC': 0.1622
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'C' -> SMILES: CCCC(C)OC | Score: 0.1944
+Score for SMILES 'CCCC(C)OC': 0.1944
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'CC' -> SMILES: CCC(CC)COC | Score: 0.2105
+Score for SMILES 'CCC(CC)COC': 0.2105
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'CC' -> SMILES: CCC(C)CCOC | Score: 0.2105
+Score for SMILES 'CCC(C)CCOC': 0.2105
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'CC' -> SMILES: CCCCCCOC | Score: 0.4242
+Score for SMILES 'CCCCCCOC': 0.4242
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'CC' -> SMILES: CCCCOCCC | Score: 0.7407
+Score for SMILES 'CCCCOCCC': 0.7407
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'CC' -> SMILES: CCCC(CC)OC | Score: 0.2432
+Score for SMILES 'CCCC(CC)OC': 0.2432
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'CCC' -> SMILES: CCCC(CCC)OC | Score: 0.2895
+Score for SMILES 'CCCC(CCC)OC': 0.2895
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'CCC' -> SMILES: CCCC(C)CCOC | Score: 0.2564
+Score for SMILES 'CCCC(C)CCOC': 0.2564
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'CCC' -> SMILES: COCCC(C)C(C)C | Score: 0.1429
+Score for SMILES 'COCCC(C)C(C)C': 0.1429
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'CCC' -> SMILES: CCCCOCCCC | Score: 1.0000
+Score for SMILES 'CCCCOCCCC': 1.0000
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'CCC' -> SMILES: CCC(COC)C(C)C | Score: 0.1429
+Score for SMILES 'CCC(COC)C(C)C': 0.1429
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'CCC' -> SMILES: CCCC(CC)COC | Score: 0.2564
+Score for SMILES 'CCCC(CC)COC': 0.2564
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'CCC' -> SMILES: CCCC(OC)C(C)C | Score: 0.1707
+Score for SMILES 'CCCC(OC)C(C)C': 0.1707
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'CCC' -> SMILES: COCCCCC(C)C | Score: 0.2564
+Score for SMILES 'COCCCCC(C)C': 0.2564
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'CCC' -> SMILES: CCCCOCC(C)C | Score: 0.4412
+Score for SMILES 'CCCCOCC(C)C': 0.4412
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'CCC' -> SMILES: CCCCCCCOC | Score: 0.4286
+Score for SMILES 'CCCCCCCOC': 0.4286
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'O' -> SMILES: COCCCCO | Score: 0.2571
+Score for SMILES 'COCCCCO': 0.2571
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'O' -> SMILES: COCCC(C)O | Score: 0.1622
+Score for SMILES 'COCCC(C)O': 0.1622
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'O' -> SMILES: CCCC(O)OC | Score: 0.1944
+Score for SMILES 'CCCC(O)OC': 0.1944
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'O' -> SMILES: CCCCOCO | Score: 0.4667
+Score for SMILES 'CCCCOCO': 0.4667
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'O' -> SMILES: CCC(O)COC | Score: 0.1622
+Score for SMILES 'CCC(O)COC': 0.1622
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'CO' -> SMILES: CCCCOCOC | Score: 0.4688
+Score for SMILES 'CCCCOCOC': 0.4688
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'CO' -> SMILES: COCCC(C)OC | Score: 0.1500
+Score for SMILES 'COCCC(C)OC': 0.1500
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'CO' -> SMILES: CCCCOCCO | Score: 0.5667
+Score for SMILES 'CCCCOCCO': 0.5667
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'CO' -> SMILES: COCCC(C)CO | Score: 0.1795
+Score for SMILES 'COCCC(C)CO': 0.1795
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'CO' -> SMILES: COCCCCCO | Score: 0.2703
+Score for SMILES 'COCCCCCO': 0.2703
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'CO' -> SMILES: COCCCCOC | Score: 0.3056
+Score for SMILES 'COCCCCOC': 0.3056
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'CO' -> SMILES: CCC(COC)OC | Score: 0.1500
+Score for SMILES 'CCC(COC)OC': 0.1500
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'CO' -> SMILES: CCCC(OC)OC | Score: 0.1795
+Score for SMILES 'CCCC(OC)OC': 0.1795
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'CO' -> SMILES: CCCC(CO)OC | Score: 0.2105
+Score for SMILES 'CCCC(CO)OC': 0.2105
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'CO' -> SMILES: CCC(CO)COC | Score: 0.1795
+Score for SMILES 'CCC(CO)COC': 0.1795
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'COC' -> SMILES: COCCC(C)COC | Score: 0.1667
+Score for SMILES 'COCCC(C)COC': 0.1667
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'COC' -> SMILES: COCCCCCOC | Score: 0.3158
+Score for SMILES 'COCCCCCOC': 0.3158
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'COC' -> SMILES: CCCCOCCOC | Score: 0.5625
+Score for SMILES 'CCCCOCCOC': 0.5625
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'COC' -> SMILES: CCC(COC)COC | Score: 0.1667
+Score for SMILES 'CCC(COC)COC': 0.1667
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: CCCCOC | Score: 0.4138
+Step 2: Add fragment 'COC' -> SMILES: CCCC(COC)OC | Score: 0.1951
+Score for SMILES 'CCCC(COC)OC': 0.1951
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CO | Score: 0.0370
+Step 1: Add fragment 'C' -> SMILES: COC | Score: 0.1071
+Step 2: Add fragment 'CO' -> SMILES: COCCO | Score: 0.1515
+Score for SMILES 'COCCO': 0.1515
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CO | Score: 0.0370
+Step 1: Add fragment 'C' -> SMILES: COC | Score: 0.1071
+Step 2: Add fragment 'CO' -> SMILES: COCOC | Score: 0.1176
+Score for SMILES 'COCOC': 0.1176
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CO | Score: 0.0370
+Step 1: Add fragment 'C' -> SMILES: COC | Score: 0.1071
+Step 2: Add fragment 'CC' -> SMILES: CCCOC | Score: 0.2667
+Score for SMILES 'CCCOC': 0.2667
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CO | Score: 0.0370
+Step 1: Add fragment 'C' -> SMILES: COC | Score: 0.1071
+Step 2: Add fragment 'C' -> SMILES: CCOC | Score: 0.1724
+Score for SMILES 'CCOC': 0.1724
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CO | Score: 0.0370
+Step 1: Add fragment 'C' -> SMILES: COC | Score: 0.1071
+Step 2: Add fragment 'O' -> SMILES: COCO | Score: 0.0968
+Score for SMILES 'COCO': 0.0968
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CO | Score: 0.0370
+Step 1: Add fragment 'C' -> SMILES: COC | Score: 0.1071
+Step 2: Add fragment 'COC' -> SMILES: COCCOC | Score: 0.2059
+Score for SMILES 'COCCOC': 0.2059
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CO | Score: 0.0370
+Step 1: Add fragment 'C' -> SMILES: COC | Score: 0.1071
+Step 2: Add fragment 'CCC' -> SMILES: CCCCOC | Score: 0.4138
+Score for SMILES 'CCCCOC': 0.4138
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CO | Score: 0.0370
+Step 1: Add fragment 'C' -> SMILES: COC | Score: 0.1071
+Step 2: Add fragment 'CCC' -> SMILES: COCC(C)C | Score: 0.1111
+Score for SMILES 'COCC(C)C': 0.1111
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'CCC' -> SMILES: CC(C)C | Score: 0.0645
+Step 2: Add fragment 'O' -> SMILES: CC(C)(C)O | Score: 0.0606
+Score for SMILES 'CC(C)(C)O': 0.0606
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'CCC' -> SMILES: CC(C)C | Score: 0.0645
+Step 2: Add fragment 'O' -> SMILES: CC(C)CO | Score: 0.0909
+Score for SMILES 'CC(C)CO': 0.0909
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'CCC' -> SMILES: CC(C)C | Score: 0.0645
+Step 2: Add fragment 'COC' -> SMILES: COCC(C)(C)C | Score: 0.1053
+Score for SMILES 'COCC(C)(C)C': 0.1053
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'CCC' -> SMILES: CC(C)C | Score: 0.0645
+Step 2: Add fragment 'COC' -> SMILES: COCCC(C)C | Score: 0.1622
+Score for SMILES 'COCCC(C)C': 0.1622
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'CCC' -> SMILES: CC(C)C | Score: 0.0645
+Step 2: Add fragment 'C' -> SMILES: CC(C)(C)C | Score: 0.0606
+Score for SMILES 'CC(C)(C)C': 0.0606
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'CCC' -> SMILES: CC(C)C | Score: 0.0645
+Step 2: Add fragment 'C' -> SMILES: CCC(C)C | Score: 0.1250
+Score for SMILES 'CCC(C)C': 0.1250
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'CCC' -> SMILES: CC(C)C | Score: 0.0645
+Step 2: Add fragment 'CC' -> SMILES: CCC(C)(C)C | Score: 0.1176
+Score for SMILES 'CCC(C)(C)C': 0.1176
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'CCC' -> SMILES: CC(C)C | Score: 0.0645
+Step 2: Add fragment 'CC' -> SMILES: CCCC(C)C | Score: 0.1765
+Score for SMILES 'CCCC(C)C': 0.1765
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'CCC' -> SMILES: CC(C)C | Score: 0.0645
+Step 2: Add fragment 'CCC' -> SMILES: CCCC(C)(C)C | Score: 0.1667
+Score for SMILES 'CCCC(C)(C)C': 0.1667
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'CCC' -> SMILES: CC(C)C | Score: 0.0645
+Step 2: Add fragment 'CCC' -> SMILES: CC(C)CC(C)C | Score: 0.0769
+Score for SMILES 'CC(C)CC(C)C': 0.0769
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'CCC' -> SMILES: CC(C)C | Score: 0.0645
+Step 2: Add fragment 'CCC' -> SMILES: CC(C)C(C)(C)C | Score: 0.0526
+Score for SMILES 'CC(C)C(C)(C)C': 0.0526
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'CCC' -> SMILES: CC(C)C | Score: 0.0645
+Step 2: Add fragment 'CCC' -> SMILES: CCCCC(C)C | Score: 0.2647
+Score for SMILES 'CCCCC(C)C': 0.2647
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'CCC' -> SMILES: CC(C)C | Score: 0.0645
+Step 2: Add fragment 'CO' -> SMILES: CC(C)(C)CO | Score: 0.0857
+Score for SMILES 'CC(C)(C)CO': 0.0857
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'CCC' -> SMILES: CC(C)C | Score: 0.0645
+Step 2: Add fragment 'CO' -> SMILES: COC(C)(C)C | Score: 0.0857
+Score for SMILES 'COC(C)(C)C': 0.0857
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'CCC' -> SMILES: CC(C)C | Score: 0.0645
+Step 2: Add fragment 'CO' -> SMILES: CC(C)CCO | Score: 0.1111
+Score for SMILES 'CC(C)CCO': 0.1111
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: C | Score: 0.0000
+Step 1: Add fragment 'CCC' -> SMILES: CC(C)C | Score: 0.0645
+Step 2: Add fragment 'CO' -> SMILES: COCC(C)C | Score: 0.1111
+Score for SMILES 'COCC(C)C': 0.1111
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: COCC(C)C | Score: 0.1111
+Step 2: Add fragment 'CO' -> SMILES: COCOCC(C)C | Score: 0.1500
+Score for SMILES 'COCOCC(C)C': 0.1500
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: COCC(C)C | Score: 0.1111
+Step 2: Add fragment 'CO' -> SMILES: CC(C)COCCO | Score: 0.2105
+Score for SMILES 'CC(C)COCCO': 0.2105
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: COCC(C)C | Score: 0.1111
+Step 2: Add fragment 'CO' -> SMILES: COCC(C)COC | Score: 0.1220
+Score for SMILES 'COCC(C)COC': 0.1220
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: COCC(C)C | Score: 0.1111
+Step 2: Add fragment 'CO' -> SMILES: COC(CO)C(C)C | Score: 0.0976
+Score for SMILES 'COC(CO)C(C)C': 0.0976
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: COCC(C)C | Score: 0.1111
+Step 2: Add fragment 'CO' -> SMILES: COCC(C)(C)OC | Score: 0.0976
+Score for SMILES 'COCC(C)(C)OC': 0.0976
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: COCC(C)C | Score: 0.1111
+Step 2: Add fragment 'CO' -> SMILES: COCC(C)CCO | Score: 0.1500
+Score for SMILES 'COCC(C)CCO': 0.1500
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: COCC(C)C | Score: 0.1111
+Step 2: Add fragment 'CO' -> SMILES: COC(OC)C(C)C | Score: 0.0714
+Score for SMILES 'COC(OC)C(C)C': 0.0714
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: COCC(C)C | Score: 0.1111
+Step 2: Add fragment 'CO' -> SMILES: COCC(C)(C)CO | Score: 0.1250
+Score for SMILES 'COCC(C)(C)CO': 0.1250
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: COCC(C)C | Score: 0.1111
+Step 2: Add fragment 'CCC' -> SMILES: COCC(C)CC(C)C | Score: 0.1163
+Score for SMILES 'COCC(C)CC(C)C': 0.1163
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: COCC(C)C | Score: 0.1111
+Step 2: Add fragment 'CCC' -> SMILES: CC(C)COCC(C)C | Score: 0.1429
+Score for SMILES 'CC(C)COCC(C)C': 0.1429
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: COCC(C)C | Score: 0.1111
+Step 2: Add fragment 'CCC' -> SMILES: COC(C(C)C)C(C)C | Score: 0.0682
+Score for SMILES 'COC(C(C)C)C(C)C': 0.0682
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: COCC(C)C | Score: 0.1111
+Step 2: Add fragment 'CCC' -> SMILES: CCCCC(C)COC | Score: 0.2895
+Score for SMILES 'CCCCC(C)COC': 0.2895
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: COCC(C)C | Score: 0.1111
+Step 2: Add fragment 'CCC' -> SMILES: CCCC(C)(C)COC | Score: 0.2000
+Score for SMILES 'CCCC(C)(C)COC': 0.2000
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: COCC(C)C | Score: 0.1111
+Step 2: Add fragment 'CCC' -> SMILES: CCCC(OC)C(C)C | Score: 0.1707
+Score for SMILES 'CCCC(OC)C(C)C': 0.1707
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: COCC(C)C | Score: 0.1111
+Step 2: Add fragment 'CCC' -> SMILES: COCC(C)(C)C(C)C | Score: 0.0930
+Score for SMILES 'COCC(C)(C)C(C)C': 0.0930
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: COCC(C)C | Score: 0.1111
+Step 2: Add fragment 'CCC' -> SMILES: CCCCOCC(C)C | Score: 0.4412
+Score for SMILES 'CCCCOCC(C)C': 0.4412
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: COCC(C)C | Score: 0.1111
+Step 2: Add fragment 'COC' -> SMILES: COCCC(C)COC | Score: 0.1667
+Score for SMILES 'COCCC(C)COC': 0.1667
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: COCC(C)C | Score: 0.1111
+Step 2: Add fragment 'COC' -> SMILES: COCC(C)(C)COC | Score: 0.1163
+Score for SMILES 'COCC(C)(C)COC': 0.1163
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: COCC(C)C | Score: 0.1111
+Step 2: Add fragment 'COC' -> SMILES: COCCOCC(C)C | Score: 0.2250
+Score for SMILES 'COCCOCC(C)C': 0.2250
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: COCC(C)C | Score: 0.1111
+Step 2: Add fragment 'COC' -> SMILES: COCC(OC)C(C)C | Score: 0.0909
+Score for SMILES 'COCC(OC)C(C)C': 0.0909
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: COCC(C)C | Score: 0.1111
+Step 2: Add fragment 'O' -> SMILES: CC(C)COCO | Score: 0.1622
+Score for SMILES 'CC(C)COCO': 0.1622
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: COCC(C)C | Score: 0.1111
+Step 2: Add fragment 'O' -> SMILES: COCC(C)(C)O | Score: 0.1053
+Score for SMILES 'COCC(C)(C)O': 0.1053
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: COCC(C)C | Score: 0.1111
+Step 2: Add fragment 'O' -> SMILES: COC(O)C(C)C | Score: 0.0769
+Score for SMILES 'COC(O)C(C)C': 0.0769
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: COCC(C)C | Score: 0.1111
+Step 2: Add fragment 'O' -> SMILES: COCC(C)CO | Score: 0.1316
+Score for SMILES 'COCC(C)CO': 0.1316
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: COCC(C)C | Score: 0.1111
+Step 2: Add fragment 'CC' -> SMILES: CCC(OC)C(C)C | Score: 0.1250
+Score for SMILES 'CCC(OC)C(C)C': 0.1250
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: COCC(C)C | Score: 0.1111
+Step 2: Add fragment 'CC' -> SMILES: CCC(C)(C)COC | Score: 0.1538
+Score for SMILES 'CCC(C)(C)COC': 0.1538
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: COCC(C)C | Score: 0.1111
+Step 2: Add fragment 'CC' -> SMILES: CCCOCC(C)C | Score: 0.2778
+Score for SMILES 'CCCOCC(C)C': 0.2778
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: COCC(C)C | Score: 0.1111
+Step 2: Add fragment 'CC' -> SMILES: CCCC(C)COC | Score: 0.2105
+Score for SMILES 'CCCC(C)COC': 0.2105
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: COCC(C)C | Score: 0.1111
+Step 2: Add fragment 'C' -> SMILES: COC(C)C(C)C | Score: 0.0769
+Score for SMILES 'COC(C)C(C)C': 0.0769
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: COCC(C)C | Score: 0.1111
+Step 2: Add fragment 'C' -> SMILES: CCOCC(C)C | Score: 0.1944
+Score for SMILES 'CCOCC(C)C': 0.1944
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: COCC(C)C | Score: 0.1111
+Step 2: Add fragment 'C' -> SMILES: COCC(C)(C)C | Score: 0.1053
+Score for SMILES 'COCC(C)(C)C': 0.1053
+
+New branch created:
+Path from root to current node:
+Step 0: Root node -> SMILES: CCC | Score: 0.1923
+Step 1: Add fragment 'COC' -> SMILES: COCC(C)C | Score: 0.1111
+Step 2: Add fragment 'C' -> SMILES: CCC(C)COC | Score: 0.1622
+Score for SMILES 'CCC(C)COC': 0.1622
+
+Fragment: COC, Visits: 6, Average Reward: 0.1999, Score: 0.1071
+
+Fragment: CO, Visits: 6, Average Reward: 0.1912, Score: 0.0370
+
+Fragment: O, Visits: 4, Average Reward: 0.0890, Score: 0.0000
+
+Fragment: C, Visits: 3, Average Reward: 0.2231, Score: 0.0000
+
+Fragment: CC, Visits: 3, Average Reward: 0.2491, Score: 0.0769
+
+Fragment: CCC, Visits: 3, Average Reward: 0.1567, Score: 0.1923
+Graph images saved as 'mcts_tree.png', 'mcts_tree.pdf', and 'mcts_tree.svg'.

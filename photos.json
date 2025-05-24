@@ -1,13 +1,173 @@
 {
-  "generated_at": "2025-05-24T13:17:10.964571",
-  "total_photos": 16,
+  "generated_at": "2025-05-24T13:33:03.951380",
+  "total_photos": 32,
   "categories": {
-    "urban": 1,
+    "urban": 17,
     "nature": 5,
     "landscape": 4,
     "portrait": 6
   },
   "photos": [
+    {
+      "filename": "urban-01.jpg",
+      "path": "photos/urban/urban-01.jpg",
+      "title": "Urban 01",
+      "category": "urban",
+      "upload_date": "2025-05-24T13:27:40.805172",
+      "upload_date_formatted": "May 24, 2025",
+      "size": 807625,
+      "alt": "Urban 01 - Urban Photography"
+    },
+    {
+      "filename": "urban-02.jpg",
+      "path": "photos/urban/urban-02.jpg",
+      "title": "Urban 02",
+      "category": "urban",
+      "upload_date": "2025-05-24T13:27:40.402744",
+      "upload_date_formatted": "May 24, 2025",
+      "size": 982156,
+      "alt": "Urban 02 - Urban Photography"
+    },
+    {
+      "filename": "urban-03.jpg",
+      "path": "photos/urban/urban-03.jpg",
+      "title": "Urban 03",
+      "category": "urban",
+      "upload_date": "2025-05-24T13:27:31.288147",
+      "upload_date_formatted": "May 24, 2025",
+      "size": 1105051,
+      "alt": "Urban 03 - Urban Photography"
+    },
+    {
+      "filename": "urban-04.jpg",
+      "path": "photos/urban/urban-04.jpg",
+      "title": "Urban 04",
+      "category": "urban",
+      "upload_date": "2025-05-24T13:26:59.593608",
+      "upload_date_formatted": "May 24, 2025",
+      "size": 617590,
+      "alt": "Urban 04 - Urban Photography"
+    },
+    {
+      "filename": "urban-05.jpg",
+      "path": "photos/urban/urban-05.jpg",
+      "title": "Urban 05",
+      "category": "urban",
+      "upload_date": "2025-05-24T13:26:44.891990",
+      "upload_date_formatted": "May 24, 2025",
+      "size": 393735,
+      "alt": "Urban 05 - Urban Photography"
+    },
+    {
+      "filename": "urban-06.jpg",
+      "path": "photos/urban/urban-06.jpg",
+      "title": "Urban 06",
+      "category": "urban",
+      "upload_date": "2025-05-24T13:26:35.126163",
+      "upload_date_formatted": "May 24, 2025",
+      "size": 811189,
+      "alt": "Urban 06 - Urban Photography"
+    },
+    {
+      "filename": "urban-07.jpg",
+      "path": "photos/urban/urban-07.jpg",
+      "title": "Urban 07",
+      "category": "urban",
+      "upload_date": "2025-05-24T13:26:26.401086",
+      "upload_date_formatted": "May 24, 2025",
+      "size": 976631,
+      "alt": "Urban 07 - Urban Photography"
+    },
+    {
+      "filename": "urban-08.jpg",
+      "path": "photos/urban/urban-08.jpg",
+      "title": "Urban 08",
+      "category": "urban",
+      "upload_date": "2025-05-24T13:26:19.737260",
+      "upload_date_formatted": "May 24, 2025",
+      "size": 707177,
+      "alt": "Urban 08 - Urban Photography"
+    },
+    {
+      "filename": "urban-11.jpg",
+      "path": "photos/urban/urban-11.jpg",
+      "title": "Urban 11",
+      "category": "urban",
+      "upload_date": "2025-05-24T13:26:18.871403",
+      "upload_date_formatted": "May 24, 2025",
+      "size": 802264,
+      "alt": "Urban 11 - Urban Photography"
+    },
+    {
+      "filename": "urban-09.jpg",
+      "path": "photos/urban/urban-09.jpg",
+      "title": "Urban 09",
+      "category": "urban",
+      "upload_date": "2025-05-24T13:26:18.371737",
+      "upload_date_formatted": "May 24, 2025",
+      "size": 1349046,
+      "alt": "Urban 09 - Urban Photography"
+    },
+    {
+      "filename": "urban-10.jpg",
+      "path": "photos/urban/urban-10.jpg",
+      "title": "Urban 10",
+      "category": "urban",
+      "upload_date": "2025-05-24T13:26:15.034151",
+      "upload_date_formatted": "May 24, 2025",
+      "size": 758867,
+      "alt": "Urban 10 - Urban Photography"
+    },
+    {
+      "filename": "urban-12.jpg",
+      "path": "photos/urban/urban-12.jpg",
+      "title": "Urban 12",
+      "category": "urban",
+      "upload_date": "2025-05-24T13:26:14.330775",
+      "upload_date_formatted": "May 24, 2025",
+      "size": 554503,
+      "alt": "Urban 12 - Urban Photography"
+    },
+    {
+      "filename": "urban-13.jpg",
+      "path": "photos/urban/urban-13.jpg",
+      "title": "Urban 13",
+      "category": "urban",
+      "upload_date": "2025-05-24T13:26:14.085201",
+      "upload_date_formatted": "May 24, 2025",
+      "size": 600198,
+      "alt": "Urban 13 - Urban Photography"
+    },
+    {
+      "filename": "urban-14.jpg",
+      "path": "photos/urban/urban-14.jpg",
+      "title": "Urban 14",
+      "category": "urban",
+      "upload_date": "2025-05-24T13:26:14.077928",
+      "upload_date_formatted": "May 24, 2025",
+      "size": 1049587,
+      "alt": "Urban 14 - Urban Photography"
+    },
+    {
+      "filename": "urban-16.jpg",
+      "path": "photos/urban/urban-16.jpg",
+      "title": "Urban 16",
+      "category": "urban",
+      "upload_date": "2025-05-24T13:26:13.344346",
+      "upload_date_formatted": "May 24, 2025",
+      "size": 759505,
+      "alt": "Urban 16 - Urban Photography"
+    },
+    {
+      "filename": "urban-15.jpg",
+      "path": "photos/urban/urban-15.jpg",
+      "title": "Urban 15",
+      "category": "urban",
+      "upload_date": "2025-05-24T13:26:12.927723",
+      "upload_date_formatted": "May 24, 2025",
+      "size": 253275,
+      "alt": "Urban 15 - Urban Photography"
+    },
     {
       "filename": "urban-17.jpg",
       "path": "photos/urban/urban-17.jpg",

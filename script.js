@@ -17,7 +17,9 @@ document.addEventListener('DOMContentLoaded', function() {
 async function loadPhotosFromJSON() {
     try {
         console.log('🔍 Loading photos from JSON...');
-        const response = await fetch('photos.json');
+        // Add cache-busting parameter to force fresh load
+        const cacheBuster = '?v=' + Date.now();
+        const response = await fetch('photos.json' + cacheBuster);
         
         if (!response.ok) {
             throw new Error(`HTTP ${response.status}: ${response.statusText}`);

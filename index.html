@@ -32,54 +32,18 @@
     <main class="main">
         <div class="container">
             <div class="photo-grid" id="photoGrid">
-                <!-- Sample photos - you can replace these with your own -->
-                <div class="photo-item" data-category="landscape" data-upload-date="2024-01-15T10:30:00">
-                    <img src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500&h=500&fit=crop" alt="Mountain Landscape" loading="lazy">
-                    <div class="photo-overlay">
-                        <h3>Mountain Vista</h3>
-                        <p>Landscape</p>
-                        <p class="upload-date">Uploaded: Jan 15, 2024</p>
-                    </div>
-                </div>
-                <div class="photo-item" data-category="nature" data-upload-date="2024-01-12T14:45:00">
-                    <img src="https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=500&h=500&fit=crop" alt="Forest Path" loading="lazy">
-                    <div class="photo-overlay">
-                        <h3>Forest Path</h3>
-                        <p>Nature</p>
-                        <p class="upload-date">Uploaded: Jan 12, 2024</p>
-                    </div>
-                </div>
-                <div class="photo-item" data-category="urban" data-upload-date="2024-01-18T09:15:00">
-                    <img src="https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=500&h=500&fit=crop" alt="City Skyline" loading="lazy">
-                    <div class="photo-overlay">
-                        <h3>City Lights</h3>
-                        <p>Urban</p>
-                        <p class="upload-date">Uploaded: Jan 18, 2024</p>
-                    </div>
-                </div>
-                <div class="photo-item" data-category="portrait" data-upload-date="2024-01-10T16:20:00">
-                    <img src="https://images.unsplash.com/photo-1494790108755-2616b612b786?w=500&h=500&fit=crop" alt="Portrait" loading="lazy">
-                    <div class="photo-overlay">
-                        <h3>Portrait Study</h3>
-                        <p>Portrait</p>
-                        <p class="upload-date">Uploaded: Jan 10, 2024</p>
-                    </div>
-                </div>
-                <div class="photo-item" data-category="landscape" data-upload-date="2024-01-20T11:30:00">
-                    <img src="https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=500&h=500&fit=crop" alt="Ocean View" loading="lazy">
-                    <div class="photo-overlay">
-                        <h3>Ocean Sunset</h3>
-                        <p>Landscape</p>
-                        <p class="upload-date">Uploaded: Jan 20, 2024</p>
-                    </div>
-                </div>
-                <div class="photo-item" data-category="nature" data-upload-date="2024-01-08T08:45:00">
-                    <img src="https://images.unsplash.com/photo-1426604966848-d7adac402bff?w=500&h=500&fit=crop" alt="Nature Close-up" loading="lazy">
-                    <div class="photo-overlay">
-                        <h3>Morning Dew</h3>
-                        <p>Nature</p>
-                        <p class="upload-date">Uploaded: Jan 8, 2024</p>
-                    </div>
+                <!-- Photos will be loaded automatically from photos.json -->
+                <div class="loading-message" style="
+                    grid-column: 1 / -1;
+                    text-align: center;
+                    padding: 3rem;
+                    background: white;
+                    border-radius: 8px;
+                    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+                    color: #666;
+                ">
+                    <h3 style="margin-bottom: 1rem;">📸 Loading Photos...</h3>
+                    <p>Please wait while we load your photo gallery.</p>
                 </div>
             </div>
         </div>

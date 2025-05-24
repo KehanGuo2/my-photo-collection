@@ -24,3 +24,5 @@ __pycache__/
 # Temporary files
 *.tmp
 *.temp 
+# Auto-generated photo data
+photos.json

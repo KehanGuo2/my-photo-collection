@@ -17,7 +17,7 @@ This folder contains nature photography including:
 
 ## 📝 HTML Template for Nature Photos
 
-```html
+<!-- ```html
 <div class="photo-item" data-category="nature" data-upload-date="2024-01-17T09:45:00">
     <img src="photos/nature/your-photo-name.jpg" alt="Your Photo Description" loading="lazy">
     <div class="photo-overlay">
@@ -26,7 +26,7 @@ This folder contains nature photography including:
         <p class="upload-date">Uploaded: Jan 17, 2024</p>
     </div>
 </div>
-```
+``` -->
 
 **Remember to:**
 - Use descriptive filenames (no spaces, use hyphens)

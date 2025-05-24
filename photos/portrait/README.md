@@ -17,7 +17,7 @@ This folder contains portrait photography including:
 
 ## 📝 HTML Template for Portrait Photos
 
-```html
+<!-- ```html
 <div class="photo-item" data-category="portrait" data-upload-date="2024-01-16T14:20:00">
     <img src="photos/portrait/your-photo-name.jpg" alt="Your Photo Description" loading="lazy">
     <div class="photo-overlay">
@@ -26,7 +26,10 @@ This folder contains portrait photography including:
         <p class="upload-date">Uploaded: Jan 16, 2024</p>
     </div>
 </div>
-```
+``` -->
+
+
+
 
 **Remember to:**
 - Use descriptive filenames (no spaces, use hyphens)

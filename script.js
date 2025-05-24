@@ -355,6 +355,9 @@ function setupEventListeners() {
         });
     }
     
+    // Setup close button event listeners
+    setupCloseButton();
+    
     // Keyboard navigation
     document.addEventListener('keydown', function(e) {
         const lightbox = document.getElementById('lightbox');
@@ -376,6 +379,42 @@ function setupEventListeners() {
     
     // Mobile touch support for lightbox
     setupMobileTouchNavigation();
+}
+
+// Setup close button with proper touch support
+function setupCloseButton() {
+    const closeBtn = document.querySelector('.close-btn');
+    if (closeBtn) {
+        // Remove existing onclick attribute
+        closeBtn.removeAttribute('onclick');
+        
+        // Add click event listener
+        closeBtn.addEventListener('click', function(e) {
+            e.preventDefault();
+            e.stopPropagation();
+            closeLightbox();
+        });
+        
+        // Add touch event listeners for better mobile support
+        closeBtn.addEventListener('touchend', function(e) {
+            e.preventDefault();
+            e.stopPropagation();
+            closeLightbox();
+        });
+        
+        // Add visual feedback for touch
+        closeBtn.addEventListener('touchstart', function(e) {
+            e.preventDefault();
+            e.stopPropagation();
+            this.style.transform = 'scale(0.9)';
+            this.style.background = 'rgba(255, 255, 255, 0.5)';
+        });
+        
+        closeBtn.addEventListener('touchcancel', function(e) {
+            this.style.transform = 'scale(1)';
+            this.style.background = 'rgba(255, 255, 255, 0.3)';
+        });
+    }
 }
 
 // Setup mobile touch navigation for lightbox

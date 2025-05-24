@@ -296,17 +296,51 @@ function openLightbox(photo) {
         lightbox.style.opacity = '1';
     }, 10);
     
+    // Setup close button for this lightbox session
+    setupCloseButtonForLightbox();
+    
     // Show mobile swipe indicator if on mobile device
     showMobileSwipeIndicator();
 }
 
+// Setup close button specifically when lightbox opens
+function setupCloseButtonForLightbox() {
+    const closeBtn = document.querySelector('.close-btn');
+    if (!closeBtn) return;
+    
+    // Remove any existing event listeners by cloning
+    const newCloseBtn = closeBtn.cloneNode(true);
+    closeBtn.parentNode.replaceChild(newCloseBtn, closeBtn);
+    
+    // Simple touch/click handler that always works
+    newCloseBtn.addEventListener('touchstart', function(e) {
+        e.stopPropagation(); // Prevent lightbox touch events
+        this.style.transform = 'scale(0.9)';
+        this.style.background = 'rgba(0, 0, 0, 0.8)';
+    });
+    
+    newCloseBtn.addEventListener('touchend', function(e) {
+        e.preventDefault();
+        e.stopPropagation(); // Prevent lightbox touch events
+        closeLightbox();
+    });
+    
+    newCloseBtn.addEventListener('click', function(e) {
+        e.preventDefault();
+        e.stopPropagation(); // Prevent lightbox touch events
+        closeLightbox();
+    });
+}
+
 function closeLightbox() {
+    console.log('Closing lightbox...');
     const lightbox = document.getElementById('lightbox');
     lightbox.style.opacity = '0';
     
     setTimeout(() => {
         lightbox.style.display = 'none';
         document.body.style.overflow = 'auto';
+        console.log('Lightbox closed');
     }, 300);
 }
 
@@ -433,14 +467,24 @@ function setupMobileTouchNavigation() {
         // Only handle single touch
         if (e.touches.length !== 1) return;
         
+        // Check if touch is on close button - if so, don't handle it here
         const touch = e.touches[0];
+        const closeBtn = document.querySelector('.close-btn');
+        if (closeBtn) {
+            const closeBtnRect = closeBtn.getBoundingClientRect();
+            if (touch.clientX >= closeBtnRect.left && touch.clientX <= closeBtnRect.right &&
+                touch.clientY >= closeBtnRect.top && touch.clientY <= closeBtnRect.bottom) {
+                return; // Let close button handle this touch
+            }
+        }
+        
         startX = touch.clientX;
         startY = touch.clientY;
         currentX = touch.clientX;
         currentY = touch.clientY;
         isDragging = true;
         
-        // Prevent default to avoid scroll
+        // Only prevent default for swipe area (not close button area)
         e.preventDefault();
     }, { passive: false });
     

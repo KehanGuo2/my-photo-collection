@@ -3,23 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Photo Collection</title>
+    <title>Photo Gallery</title>
     <link rel="stylesheet" href="styles.css">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
 </head>
 <body>
     <header class="header">
-        <div class="container">
-            <h1 class="logo">
-                <i class="fas fa-camera"></i>
-            </h1>
-            <nav class="nav">
-                <div class="header-info">
-                    <span class="photo-count">Showcasing <span id="photoCount">6</span> photos</span>
-                </div>
-            </nav>
-        </div>
-        
         <div class="container">
             <div class="filters">
                 <button class="filter-btn active" data-filter="all">All</button>
@@ -42,11 +31,6 @@
 
     <main class="main">
         <div class="container">
-            <div class="hero">
-                <h2>Welcome to My Photo Gallery</h2>
-                <p>Capturing life's beautiful moments, one photo at a time.</p>
-            </div>
-
             <div class="photo-grid" id="photoGrid">
                 <!-- Sample photos - you can replace these with your own -->
                 <div class="photo-item" data-category="landscape" data-upload-date="2024-01-15T10:30:00">
@@ -145,7 +129,7 @@
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2024 My Photo Collection. All rights reserved. | Photos displayed are the property of their respective owners.</p>
+                <p>&copy; 2024 Photo Gallery. All rights reserved. | Photos displayed are the property of their respective owners.</p>
                 <p class="footer-note">Built with passion for photography • Last updated: <span id="lastUpdated"></span></p>
             </div>
         </div>

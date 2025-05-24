@@ -33,70 +33,16 @@ body {
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 
-.header .container:first-child {
+.header .container {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
-    margin-bottom: 1rem;
-}
-
-.header .container:last-child {
-    border-top: 1px solid rgba(0, 0, 0, 0.05);
-    padding-top: 1rem;
-}
-
-.logo {
-    font-size: 1.8rem;
-    font-weight: 700;
-    color: #1a1a1a;
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    letter-spacing: -0.5px;
-}
-
-.logo i {
-    font-size: 2rem;
-    color: #333;
-}
-
-.header-info {
-    display: flex;
-    align-items: center;
-}
-
-.photo-count {
-    color: #666;
-    font-size: 0.9rem;
-    font-weight: 400;
-    letter-spacing: 0.3px;
 }
 
 /* Main content */
 .main {
-    margin-top: 180px;
+    margin-top: 100px;
     padding: 2rem 0;
-}
-
-.hero {
-    text-align: center;
-    margin-bottom: 3rem;
-    padding: 3rem 0;
-}
-
-.hero h2 {
-    font-size: 3rem;
-    font-weight: 300;
-    color: #1a1a1a;
-    margin-bottom: 1rem;
-    letter-spacing: -1px;
-}
-
-.hero p {
-    font-size: 1.2rem;
-    color: #666;
-    font-weight: 300;
-    letter-spacing: 0.5px;
 }
 
 /* Filters */
@@ -105,7 +51,7 @@ body {
     justify-content: center;
     align-items: center;
     gap: 1rem;
-    margin-bottom: 3rem;
+    margin-bottom: 0;
     flex-wrap: wrap;
 }
 
@@ -424,15 +370,7 @@ body {
 /* Responsive design */
 @media (max-width: 768px) {
     .main {
-        margin-top: 220px;
-    }
-    
-    .hero h2 {
-        font-size: 2rem;
-    }
-    
-    .hero p {
-        font-size: 1rem;
+        margin-top: 120px;
     }
     
     .photo-grid {
@@ -466,13 +404,9 @@ body {
         padding: 0 15px;
     }
     
-    .header .container:first-child {
+    .header .container {
         flex-direction: column;
         gap: 1rem;
-    }
-    
-    .logo {
-        font-size: 1.5rem;
     }
     
     .footer-content {
@@ -492,15 +426,11 @@ body {
 
 @media (max-width: 480px) {
     .main {
-        margin-top: 280px;
+        margin-top: 160px;
     }
     
     .photo-grid {
         grid-template-columns: 1fr;
-    }
-    
-    .hero {
-        padding: 1rem 0;
     }
     
     .filters {

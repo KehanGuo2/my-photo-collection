@@ -1,11 +1,103 @@
 {
-  "generated_at": "2025-05-24T12:47:37.425014",
-  "total_photos": 22,
+  "generated_at": "2025-05-24T12:55:08.074788",
+  "total_photos": 31,
   "categories": {
+    "nature": 5,
+    "landscape": 4,
     "portrait": 6,
     "urban": 16
   },
   "photos": [
+    {
+      "filename": "nature-01.jpg",
+      "path": "photos/nature/nature-01.jpg",
+      "title": "Nature 01",
+      "category": "nature",
+      "upload_date": "2025-05-24T12:54:59.039315",
+      "upload_date_formatted": "May 24, 2025",
+      "size": 690662,
+      "alt": "Nature 01 - Nature Photography"
+    },
+    {
+      "filename": "nature-04.jpg",
+      "path": "photos/nature/nature-04.jpg",
+      "title": "Nature 04",
+      "category": "nature",
+      "upload_date": "2025-05-24T12:54:24.165404",
+      "upload_date_formatted": "May 24, 2025",
+      "size": 1401631,
+      "alt": "Nature 04 - Nature Photography"
+    },
+    {
+      "filename": "nature-05.jpg",
+      "path": "photos/nature/nature-05.jpg",
+      "title": "Nature 05",
+      "category": "nature",
+      "upload_date": "2025-05-24T12:54:17.151356",
+      "upload_date_formatted": "May 24, 2025",
+      "size": 661263,
+      "alt": "Nature 05 - Nature Photography"
+    },
+    {
+      "filename": "nature-03.jpg",
+      "path": "photos/nature/nature-03.jpg",
+      "title": "Nature 03",
+      "category": "nature",
+      "upload_date": "2025-05-24T12:54:03.739324",
+      "upload_date_formatted": "May 24, 2025",
+      "size": 1493124,
+      "alt": "Nature 03 - Nature Photography"
+    },
+    {
+      "filename": "nature-02.jpg",
+      "path": "photos/nature/nature-02.jpg",
+      "title": "Nature 02",
+      "category": "nature",
+      "upload_date": "2025-05-24T12:53:56.220886",
+      "upload_date_formatted": "May 24, 2025",
+      "size": 1111167,
+      "alt": "Nature 02 - Nature Photography"
+    },
+    {
+      "filename": "landscape-01.jpg",
+      "path": "photos/landscape/landscape-01.jpg",
+      "title": "Landscape 01",
+      "category": "landscape",
+      "upload_date": "2025-05-24T12:53:05.376728",
+      "upload_date_formatted": "May 24, 2025",
+      "size": 567439,
+      "alt": "Landscape 01 - Landscape Photography"
+    },
+    {
+      "filename": "landscape-04.jpg",
+      "path": "photos/landscape/landscape-04.jpg",
+      "title": "Landscape 04",
+      "category": "landscape",
+      "upload_date": "2025-05-24T12:52:50.583638",
+      "upload_date_formatted": "May 24, 2025",
+      "size": 1753305,
+      "alt": "Landscape 04 - Landscape Photography"
+    },
+    {
+      "filename": "landscape-03.jpg",
+      "path": "photos/landscape/landscape-03.jpg",
+      "title": "Landscape 03",
+      "category": "landscape",
+      "upload_date": "2025-05-24T12:52:25.672940",
+      "upload_date_formatted": "May 24, 2025",
+      "size": 1055955,
+      "alt": "Landscape 03 - Landscape Photography"
+    },
+    {
+      "filename": "landscape-02.jpg",
+      "path": "photos/landscape/landscape-02.jpg",
+      "title": "Landscape 02",
+      "category": "landscape",
+      "upload_date": "2025-05-24T12:52:15.816537",
+      "upload_date_formatted": "May 24, 2025",
+      "size": 1067350,
+      "alt": "Landscape 02 - Landscape Photography"
+    },
     {
       "filename": "portrait-04.jpg",
       "path": "photos/portrait/portrait-04.jpg",

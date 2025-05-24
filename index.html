@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Photo Collection</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <h1 class="logo">
+                <i class="fas fa-camera"></i>
+                My Photo Collection
+            </h1>
+            <nav class="nav">
+                <div class="header-info">
+                    <span class="photo-count">Showcasing <span id="photoCount">6</span> photos</span>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <main class="main">
+        <div class="container">
+            <div class="hero">
+                <h2>Welcome to My Photo Gallery</h2>
+                <p>Capturing life's beautiful moments, one photo at a time.</p>
+            </div>
+
+            <div class="filters">
+                <button class="filter-btn active" data-filter="all">All</button>
+                <button class="filter-btn" data-filter="landscape">Landscape</button>
+                <button class="filter-btn" data-filter="portrait">Portrait</button>
+                <button class="filter-btn" data-filter="nature">Nature</button>
+                <button class="filter-btn" data-filter="urban">Urban</button>
+                <div class="sort-divider"></div>
+                <button class="sort-btn" data-sort="newest" title="Sort by newest first">
+                    <i class="fas fa-sort-amount-down"></i>
+                    Newest First
+                </button>
+                <button class="sort-btn" data-sort="oldest" title="Sort by oldest first">
+                    <i class="fas fa-sort-amount-up"></i>
+                    Oldest First
+                </button>
+            </div>
+
+            <div class="photo-grid" id="photoGrid">
+                <!-- Sample photos - you can replace these with your own -->
+                <div class="photo-item" data-category="landscape" data-upload-date="2024-01-15T10:30:00">
+                    <img src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500&h=500&fit=crop" alt="Mountain Landscape" loading="lazy">
+                    <div class="photo-overlay">
+                        <h3>Mountain Vista</h3>
+                        <p>Landscape</p>
+                        <p class="upload-date">Uploaded: Jan 15, 2024</p>
+                    </div>
+                </div>
+                <div class="photo-item" data-category="nature" data-upload-date="2024-01-12T14:45:00">
+                    <img src="https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=500&h=500&fit=crop" alt="Forest Path" loading="lazy">
+                    <div class="photo-overlay">
+                        <h3>Forest Path</h3>
+                        <p>Nature</p>
+                        <p class="upload-date">Uploaded: Jan 12, 2024</p>
+                    </div>
+                </div>
+                <div class="photo-item" data-category="urban" data-upload-date="2024-01-18T09:15:00">
+                    <img src="https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=500&h=500&fit=crop" alt="City Skyline" loading="lazy">
+                    <div class="photo-overlay">
+                        <h3>City Lights</h3>
+                        <p>Urban</p>
+                        <p class="upload-date">Uploaded: Jan 18, 2024</p>
+                    </div>
+                </div>
+                <div class="photo-item" data-category="portrait" data-upload-date="2024-01-10T16:20:00">
+                    <img src="https://images.unsplash.com/photo-1494790108755-2616b612b786?w=500&h=500&fit=crop" alt="Portrait" loading="lazy">
+                    <div class="photo-overlay">
+                        <h3>Portrait Study</h3>
+                        <p>Portrait</p>
+                        <p class="upload-date">Uploaded: Jan 10, 2024</p>
+                    </div>
+                </div>
+                <div class="photo-item" data-category="landscape" data-upload-date="2024-01-20T11:30:00">
+                    <img src="https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=500&h=500&fit=crop" alt="Ocean View" loading="lazy">
+                    <div class="photo-overlay">
+                        <h3>Ocean Sunset</h3>
+                        <p>Landscape</p>
+                        <p class="upload-date">Uploaded: Jan 20, 2024</p>
+                    </div>
+                </div>
+                <div class="photo-item" data-category="nature" data-upload-date="2024-01-08T08:45:00">
+                    <img src="https://images.unsplash.com/photo-1426604966848-d7adac402bff?w=500&h=500&fit=crop" alt="Nature Close-up" loading="lazy">
+                    <div class="photo-overlay">
+                        <h3>Morning Dew</h3>
+                        <p>Nature</p>
+                        <p class="upload-date">Uploaded: Jan 8, 2024</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Lightbox Modal -->
+    <div class="lightbox" id="lightbox">
+        <div class="lightbox-content">
+            <span class="close-btn" onclick="closeLightbox()">&times;</span>
+            <img class="lightbox-image" id="lightboxImage" alt="">
+            <div class="lightbox-info">
+                <h3 id="lightboxTitle"></h3>
+                <p id="lightboxCategory"></p>
+            </div>
+            <button class="nav-btn prev-btn" onclick="previousImage()">
+                <i class="fas fa-chevron-left"></i>
+            </button>
+            <button class="nav-btn next-btn" onclick="nextImage()">
+                <i class="fas fa-chevron-right"></i>
+            </button>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>Contact Information</h4>
+                    <div class="contact-info">
+                        <p><i class="fas fa-envelope"></i> hello@myphotocollection.com</p>
+                        <p><i class="fas fa-phone"></i> +1 (555) 123-4567</p>
+                        <p><i class="fas fa-map-marker-alt"></i> San Francisco, CA</p>
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h4>Follow Me</h4>
+                    <div class="social-links">
+                        <a href="#" title="Instagram"><i class="fab fa-instagram"></i></a>
+                        <a href="#" title="Twitter"><i class="fab fa-twitter"></i></a>
+                        <a href="#" title="Facebook"><i class="fab fa-facebook"></i></a>
+                        <a href="#" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h4>About</h4>
+                    <p>Capturing life's beautiful moments through the lens. Professional photography services and personal collection showcase.</p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 My Photo Collection. All rights reserved. | Photos displayed are the property of their respective owners.</p>
+                <p class="footer-note">Built with passion for photography • Last updated: <span id="lastUpdated"></span></p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html> 

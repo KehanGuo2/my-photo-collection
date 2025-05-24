@@ -185,4 +185,4 @@ Feel free to customize and improve this photo gallery for your needs!
 
 **Ready to showcase your photography to the world! 📷✨**
 
-For publishing help, see: [PUBLISH.md](PUBLISH.md) 
+For publishing help, see: [PUBLISH.md](PUBLISH.md)

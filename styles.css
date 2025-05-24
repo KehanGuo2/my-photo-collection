@@ -429,6 +429,56 @@ body {
         margin-top: 1.5rem;
     }
     
+    /* Mobile lightbox improvements */
+    .lightbox {
+        padding: 1rem;
+    }
+    
+    .lightbox-content {
+        max-width: 95vw;
+        max-height: 95vh;
+    }
+    
+    .lightbox-image {
+        max-height: 75vh;
+        width: 100%;
+        object-fit: contain;
+        user-select: none;
+        -webkit-user-select: none;
+        touch-action: manipulation;
+    }
+    
+    .lightbox-info {
+        margin-top: 1rem;
+        padding: 0 1rem;
+    }
+    
+    .lightbox-info h3 {
+        font-size: 1.2rem;
+        margin-bottom: 0.3rem;
+    }
+    
+    .lightbox-info p {
+        font-size: 0.9rem;
+        opacity: 0.8;
+    }
+    
+    .close-btn {
+        top: -40px;
+        right: 0;
+        font-size: 1.8rem;
+        width: 35px;
+        height: 35px;
+        background: rgba(255, 255, 255, 0.3);
+        backdrop-filter: blur(10px);
+    }
+    
+    .close-btn:active {
+        background: rgba(255, 255, 255, 0.5);
+        transform: scale(0.95);
+    }
+    
+    /* Hide navigation buttons on mobile */
     .nav-btn {
         display: none;
     }
@@ -489,22 +539,13 @@ body {
         margin-top: 1rem;
     }
     
+    /* FORCE HIDE overlays on mobile */
     .photo-overlay {
-        padding: 1rem 1rem 0.75rem;
+        display: none !important;
     }
     
-    .photo-overlay h3 {
-        font-size: 1rem;
-        margin-bottom: 0.3rem;
-    }
-    
-    .photo-overlay p {
-        font-size: 0.8rem;
-        margin-bottom: 0.3rem;
-    }
-    
-    .photo-overlay .upload-date {
-        font-size: 0.7rem;
+    .photo-item:hover .photo-overlay {
+        display: none !important;
     }
     
     .footer {

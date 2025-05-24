@@ -295,6 +295,9 @@ function openLightbox(photo) {
     setTimeout(() => {
         lightbox.style.opacity = '1';
     }, 10);
+    
+    // Show mobile swipe indicator if on mobile device
+    showMobileSwipeIndicator();
 }
 
 function closeLightbox() {
@@ -370,6 +373,92 @@ function setupEventListeners() {
             }
         }
     });
+    
+    // Mobile touch support for lightbox
+    setupMobileTouchNavigation();
+}
+
+// Setup mobile touch navigation for lightbox
+function setupMobileTouchNavigation() {
+    const lightbox = document.getElementById('lightbox');
+    if (!lightbox) return;
+    
+    let startX = 0;
+    let startY = 0;
+    let currentX = 0;
+    let currentY = 0;
+    let isDragging = false;
+    
+    // Touch start
+    lightbox.addEventListener('touchstart', function(e) {
+        // Only handle single touch
+        if (e.touches.length !== 1) return;
+        
+        const touch = e.touches[0];
+        startX = touch.clientX;
+        startY = touch.clientY;
+        currentX = touch.clientX;
+        currentY = touch.clientY;
+        isDragging = true;
+        
+        // Prevent default to avoid scroll
+        e.preventDefault();
+    }, { passive: false });
+    
+    // Touch move
+    lightbox.addEventListener('touchmove', function(e) {
+        if (!isDragging || e.touches.length !== 1) return;
+        
+        const touch = e.touches[0];
+        currentX = touch.clientX;
+        currentY = touch.clientY;
+        
+        // Calculate distance moved
+        const deltaX = currentX - startX;
+        const deltaY = currentY - startY;
+        
+        // If moving more horizontally than vertically, prevent default scrolling
+        if (Math.abs(deltaX) > Math.abs(deltaY)) {
+            e.preventDefault();
+        }
+    }, { passive: false });
+    
+    // Touch end
+    lightbox.addEventListener('touchend', function(e) {
+        if (!isDragging) return;
+        
+        const deltaX = currentX - startX;
+        const deltaY = currentY - startY;
+        const threshold = 50; // Minimum distance for swipe
+        const verticalThreshold = 100; // Maximum vertical movement allowed
+        
+        // Check if it's a horizontal swipe
+        if (Math.abs(deltaX) > threshold && Math.abs(deltaY) < verticalThreshold) {
+            if (deltaX > 0) {
+                // Swipe right - go to previous image
+                previousImage();
+            } else {
+                // Swipe left - go to next image
+                nextImage();
+            }
+        }
+        
+        // Reset state
+        isDragging = false;
+        startX = 0;
+        startY = 0;
+        currentX = 0;
+        currentY = 0;
+    });
+    
+    // Touch cancel
+    lightbox.addEventListener('touchcancel', function(e) {
+        isDragging = false;
+        startX = 0;
+        startY = 0;
+        currentX = 0;
+        currentY = 0;
+    });
 }
 
 // Setup lazy loading for images
@@ -404,4 +493,81 @@ function scrollToTop() {
         top: 0,
         behavior: 'smooth'
     });
+}
+
+// Show mobile swipe indicator
+function showMobileSwipeIndicator() {
+    // Check if it's a mobile device
+    const isMobile = window.innerWidth <= 768 || ('ontouchstart' in window);
+    
+    if (!isMobile || filteredPhotos.length <= 1) return;
+    
+    // Check if indicator already exists or has been shown
+    if (document.getElementById('swipeIndicator') || localStorage.getItem('swipeIndicatorShown')) {
+        return;
+    }
+    
+    // Create swipe indicator
+    const indicator = document.createElement('div');
+    indicator.id = 'swipeIndicator';
+    indicator.innerHTML = `
+        <div class="swipe-hint">
+            <i class="fas fa-hand-point-left"></i>
+            <span>Swipe to navigate</span>
+            <i class="fas fa-hand-point-right"></i>
+        </div>
+    `;
+    indicator.style.cssText = `
+        position: fixed;
+        bottom: 20px;
+        left: 50%;
+        transform: translateX(-50%);
+        background: rgba(0, 0, 0, 0.8);
+        color: white;
+        padding: 12px 20px;
+        border-radius: 25px;
+        font-size: 0.9rem;
+        z-index: 2001;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        backdrop-filter: blur(10px);
+        animation: swipeIndicatorFade 3s ease-in-out forwards;
+        pointer-events: none;
+    `;
+    
+    // Add CSS animation if not already added
+    if (!document.getElementById('swipeIndicatorStyles')) {
+        const style = document.createElement('style');
+        style.id = 'swipeIndicatorStyles';
+        style.textContent = `
+            @keyframes swipeIndicatorFade {
+                0% { opacity: 0; transform: translateX(-50%) translateY(20px); }
+                15% { opacity: 1; transform: translateX(-50%) translateY(0px); }
+                85% { opacity: 1; transform: translateX(-50%) translateY(0px); }
+                100% { opacity: 0; transform: translateX(-50%) translateY(-20px); }
+            }
+            .swipe-hint {
+                display: flex;
+                align-items: center;
+                gap: 8px;
+            }
+            .swipe-hint i {
+                font-size: 0.8rem;
+                opacity: 0.7;
+            }
+        `;
+        document.head.appendChild(style);
+    }
+    
+    document.body.appendChild(indicator);
+    
+    // Remove indicator after animation
+    setTimeout(() => {
+        if (indicator && indicator.parentNode) {
+            indicator.parentNode.removeChild(indicator);
+        }
+        // Mark as shown so it doesn't appear again
+        localStorage.setItem('swipeIndicatorShown', 'true');
+    }, 3000);
 } 

@@ -590,9 +590,17 @@ html {
         transform: none;
     }
     
+    /* Hide photo overlays on mobile - keep photos clean */
     .photo-overlay {
-        transform: translateY(0);
-        background: linear-gradient(to top, rgba(0, 0, 0, 0.8), transparent);
+        transform: translateY(100%);
+        opacity: 0;
+        pointer-events: none;
+    }
+    
+    /* Never show overlays on mobile grid */
+    .photo-item:hover .photo-overlay {
+        transform: translateY(100%);
+        opacity: 0;
     }
     
     .filter-btn:hover,
